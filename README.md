@@ -3,19 +3,9 @@
 Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Varying machine learning algorithms were utilized for training and evaluation of models.
 
 #Delverables
-
-Create training and test groups from a given data set.
-
-Implement the logistic regression, decision tree, random forest, and support vector machine algorithms.
-
-Interpret the results of the logistic regression, decision tree, random forest, and support vector machine algorithms.
-
-Compare the advantages and disadvantages of each supervised learning algorithm.
-
-Determine which supervised learning algorithm is best used for a given data set or scenario.
-
-Use ensemble and resampling techniques to improve model performance.
-
+Deliverable 1: Use Resampling Models to Predict Credit Risk
+Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk
+Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
 #Tools: Python, Jupiter notebook, imblearn, scikit-learn, smote algorithm, clustercentroids, randomforestclassifier, easyensembleclassifier
 
